@@ -1,2 +1,2 @@
-# P3_Series_de_Tiempo
-Comparto mi tercer entrega del curso de Data Science en Acámica
+# Proyecto 3 - Series de Tiempo Acámica
+Las series de tiempo brindan la oportunidad de pronosticar valores futuros, basándose en valores anteriores. Se pueden utilizar para pronosticar tendencias. Asumiendo un supuesto: que el futuro se va a comportar como el pasado. Pero el futuro es incierto y podemos aproximarnos a lo que puede llegar a suceder, pero siempre vamos a tener un componente de sorpresa como esta pandemia.
